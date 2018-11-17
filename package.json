@@ -1,0 +1,19 @@
+{
+  "name": "automatedemail",
+  "version": "1.0.0",
+  "description": "Upon executing it reads the data from the individual files(Stored in studentRecord directory) of each Student and using the email stored in email array of module studentData.js it sends email to every students containing different data read from each Student's file ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptianJackSparrow-26/AutomatedEmail.git"
+  },
+  "author": "Rajkumar Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptianJackSparrow-26/AutomatedEmail/issues"
+  },
+  "homepage": "https://github.com/CaptianJackSparrow-26/AutomatedEmail#readme"
+}
